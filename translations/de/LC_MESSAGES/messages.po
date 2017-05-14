@@ -715,11 +715,11 @@ msgstr ""
 
 #: templates/index.html:22
 msgid "Enter a drop point number"
-msgstr "Drop-Point-Nummer eingeben"
+msgstr "Nummer eingeben"
 
 #: templates/index.html:25
 msgid "Report this drop point"
-msgstr "Diesen Drop Point melden"
+msgstr "Melden"
 
 #: templates/index.html:36
 msgid "Show me the list!"
@@ -848,12 +848,12 @@ msgstr "Einloggen"
 
 #: templates/report.html:2
 msgid "Report Drop Point"
-msgstr "Drop Point melden"
+msgstr "Melden"
 
 #: templates/report.html:5
 #, python-format
 msgid "Report Drop Point %(number)i"
-msgstr "Drop Point %(number)i melden"
+msgstr "Punkt %(number)i melden"
 
 #: templates/report_buttons.html:3
 msgid ""
@@ -861,34 +861,34 @@ msgid ""
 "are unsure which state to report, refer to the FAQ or simply use the very first "
 "button."
 msgstr ""
-"Bitte nutze die Buttons unten um den Status des Drop Points zu melden. Wenn du dir "
+"Bitte nutze die Buttons um den Status des zu melden. Wenn du dir "
 "unsicher bist, welchen Status du angeben sollst, schau in die FAQ oder nimm den "
 "ersten Button."
 
 #: templates/report_buttons.html:8
 msgid "I'm not sure, just take a look"
-msgstr "Ich bin mir unsicher"
+msgstr "Unsicher"
 
 #: templates/report_buttons.html:12
 msgid "Drop point is overflowing"
-msgstr "Drop Point läuft über"
+msgstr "Übervoll"
 
 #: templates/report_buttons.html:15
 #, python-format
 msgid "Drop point is 100%% full"
-msgstr "Drop Point ist komplett voll"
+msgstr "Voll"
 
 #: templates/report_buttons.html:18
 msgid "Drop point is reasonably full"
-msgstr "Drop Point ist gut gefüllt"
+msgstr "Gut gefüllt"
 
 #: templates/report_buttons.html:21
 msgid "Some bottles are present"
-msgstr "Einige Flaschen sind dort"
+msgstr "Wenig gefüllt"
 
 #: templates/report_buttons.html:24
 msgid "Drop point is empty"
-msgstr "Drop Point ist leer"
+msgstr "Leer"
 
 #: templates/report_buttons.html:28
 msgid "There are no crates"
